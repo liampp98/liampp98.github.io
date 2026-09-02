@@ -2,6 +2,7 @@ title: Liam — Sport Science & Performance Systems
 description: Athlete monitoring, GPS analytics, and dashboard infrastructure built for AFLW high performance.
 baseurl: ""
 url: ""
+theme: null
 
 markdown: kramdown
 permalink: /:categories/:title/
